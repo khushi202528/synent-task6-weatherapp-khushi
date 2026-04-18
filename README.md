@@ -1,4 +1,4 @@
-# synent-task3-weatherapp-khushi
+# synent-task6-weatherapp-khushi
 # Weather App (API Integration)
 
 This project fetches real-time weather data using an API.
